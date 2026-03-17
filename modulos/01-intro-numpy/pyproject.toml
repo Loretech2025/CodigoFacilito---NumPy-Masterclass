@@ -1,0 +1,8 @@
+[project]
+name = "intro-numpy"
+version = "0.1.0"
+description = "Módulo 1 — Introducción a NumPy: tipos de datos y creación de arrays"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy",
+]

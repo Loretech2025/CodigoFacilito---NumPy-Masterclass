@@ -1,0 +1,9 @@
+[project]
+name = "arreglos"
+version = "0.1.0"
+description = "Módulo 2 — Arreglos: atributos, indexing, reshaping, operaciones, agregaciones, broadcasting, boolean/fancy indexing"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy",
+    "matplotlib",
+]

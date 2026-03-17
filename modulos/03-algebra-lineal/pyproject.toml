@@ -1,0 +1,8 @@
+[project]
+name = "algebra-lineal"
+version = "0.1.0"
+description = "Módulo 3 — Álgebra Lineal con NumPy: vectores, matrices, normas, inversas, eigen, SVD"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy",
+]
